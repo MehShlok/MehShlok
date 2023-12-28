@@ -1,3 +1,4 @@
+![logo](https://github.com/MehShlok/MehShlok/blob/main/kratos%20banner%20-1.png)
 <h1 align="center">Hey 👋, I'm Shlok Mehendale</h1>
 <h3 align="center">Welcome! to my Github profile</h3>
 <img align="right" alt="coding" width="200" src="https://github.com/MehShlok/MehShlok/assets/119751755/e0e26313-5936-4eec-bbc4-bacae9139a05">
